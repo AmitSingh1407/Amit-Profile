@@ -46,7 +46,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<!-- <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amit9129&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -58,4 +58,20 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit9129&layout=compact&theme=radical" alt="Top languages" />
+</p> -->
+
+---
+
+<h3 align="left">🌐 Connect with Me:</h3>
+
+<p align="left">
+  <a href="https://amitsingh1407.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:kumaramit.14singh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
