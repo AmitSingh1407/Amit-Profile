@@ -12,7 +12,7 @@
   ⚡ Fun fact: I love exploring new technologies and building creative projects 🚀
 </p>
 
----
+
 
 <!-- <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=amit9129&label=Profile%20views&color=0e75b6&style=flat" alt="amit9129" /> 
